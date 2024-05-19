@@ -21,3 +21,16 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTlmYmY
 - **Visualizations:** Engaging charts and visuals for better data understanding.
 - **Performance Optimization:** Achieved a 5% increase in report efficiency.
 
+## Dashboard Overview 
+<a href="https://postimg.cc/MvGB7L1g" target="_blank"><img src="https://i.postimg.cc/L6tVpK54/linkedin-1-page-0001.jpg" alt="linkedin-1-page-0001"/></a><br/><br/>
+<a href="https://postimg.cc/64VNTzp0" target="_blank"><img src="https://i.postimg.cc/Y0Z2nscJ/linkedin-1-page-0002.jpg" alt="linkedin-1-page-0002"/></a><br/><br/>
+<a href="https://postimg.cc/1fjZXg9b" target="_blank"><img src="https://i.postimg.cc/T3R2kmB2/linkedin-1-page-0003.jpg" alt="linkedin-1-page-0003"/></a><br/><br/>
+<a href="https://postimg.cc/7bS4BPn2" target="_blank"><img src="https://i.postimg.cc/RCD0ZN3X/linkedin-1-page-0004.jpg" alt="linkedin-1-page-0004"/></a><br/><br/>
+<a href="https://postimg.cc/KRF2CX0s" target="_blank"><img src="https://i.postimg.cc/vHxZgbfM/linkedin-1-page-0005.jpg" alt="linkedin-1-page-0005"/></a><br/><br/>
+<a href="https://postimg.cc/dZwxNFJ2" target="_blank"><img src="https://i.postimg.cc/J0kCn7g2/linkedin-1-page-0006.jpg" alt="linkedin-1-page-0006"/></a><br/><br/>
+
+## "Where there is data smoke, there is business fire".
+
+
+
+
